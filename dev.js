@@ -1,2 +1,3 @@
 console.log("first")
-var asd = ""
+var asd = "",
+    aaa = "new line"
