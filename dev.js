@@ -1,4 +1,7 @@
 console.log("first")
-var asd = "sswww",
+var asd = "",
+    tayyib = "sa"
+aaa = "nesdasdw line"
+var asd2 = "sswww",
     cemiko = 12312,
-    aaa = "new lineasasdd"
+    aa2 = "new lineasasdd"
