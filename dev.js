@@ -1,3 +1,4 @@
 console.log("first")
-var asd = "ss",
+var asd = "sswww",
+    cemiko = 12312,
     aaa = "new lineasasdd"
