@@ -10,6 +10,6 @@
     },
     "rules": {
         "no-undef": "off",
-        "indent": ["war", 4]
+        "indent": ["warn", 4]
     }
 }
